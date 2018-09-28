@@ -1,0 +1,38 @@
+body{
+	background: silver;
+	background-size: auto;
+}
+.form{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 400px;
+	width: 300px;
+	background: #ffffff;
+	margin-left: 400px;
+	margin-top: 80px;
+}
+.login{
+	align-self: center;
+	height: 0px;
+}
+.email{
+	align-self: center;
+}
+.E-mail{
+	align-self: center;
+	height: 30px;
+	/*width: 30px;*/
+}
+.password{
+	align-self: center;
+	height: 30px;
+}
+.Pass{
+	text-align: center;
+}
+.login-here{
+	align-self: center;
+	font-style: italic;
+	font-size: 3;
+}
